@@ -13,6 +13,7 @@ class LocalBusiness extends AbstractContext
         'name' => null,
         'description' => null,
         'image' => null,
+        'priceRange' => null,
         'telephone' => null,
         'email' => null,
         'openingHours' => null,
